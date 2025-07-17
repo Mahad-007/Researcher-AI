@@ -1,0 +1,6 @@
+crewai[tools]
+crewai-tools
+streamlit
+requests
+python-dotenv
+litellm
